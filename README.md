@@ -142,16 +142,3 @@ Key Purpose of MongoDB in this Project:
 - To store forensic logs for every action, allowing audit trails for forensic analysis.
 - MongoDB allows easy querying, updating, and deleting of records, making it suitable for this project.
 
----
-
-Future Enhancements (Optional):
-- Add user authentication for secure access.
-- Add file download or preview options.
-- Add search and filtering to forensic logs.
-- Add alerts for suspicious activity (e.g., file deletion logs).
-
----
-
-Contact:
-For any issues, suggestions, or feature requests, please raise an issue in the GitHub repository.
-
